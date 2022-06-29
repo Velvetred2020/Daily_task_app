@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Daily to do list app</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1 id="headline">My Day</h1>
+				<div class="group">
+					<label for="main">Your task</label>
+					<input type="text" id="main" class="input-main" />
+					<button id="btn-main">Add Task</button>
+				</div>
+			</header>
+
+			<button class="btn-toggle">Hide List</button>
+
+			<div class="list-container">
+				<ul>
+					<li>Make Coffee</li>
+					<li>Morning meditation</li>
+					<li>Read a book</li>
+					<li>Write some code</li>
+				</ul>
+			</div>
+		</div>
+
+		<script src="app.js"></script>
+	</body>
+</html>
