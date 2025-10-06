@@ -120,4 +120,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Inspired by the simplicity of classic to-do apps.
 - Thanks to the open-source community for continuous inspiration.
 
-Built with 💻 and ☕ by Elena. Star ⭐ this repo if you find it useful!
+Made with 💻 and ☕ by Elena (@Velvetred2020). Give it a ⭐ if you liked it!
